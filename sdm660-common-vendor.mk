@@ -593,3 +593,20 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.rcsconfig-V1.0-java \
     manifest_android.hardware.drm@1.4-service.widevine \
     vendor.qti.gnss@4.0-service
+
+PRODUCT_PACKAGES += \
+    libimscamera_jni_libimscamera_jni_symlink64 \
+    libimsmedia_jni_libimsmedia_jni_symlink64 \
+    eglSubDriverAndroid_eglSubDriverAndroid_symlink32 \
+    libEGL_adreno_libEGL_adreno_symlink32 \
+    libGLESv1_CM_adreno_libGLESv1_CM_adreno_symlink32 \
+    libGLESv2_adreno_libGLESv2_adreno_symlink32 \
+    libq3dtools_adreno_libq3dtools_adreno_symlink32 \
+    libq3dtools_esx_libq3dtools_esx_symlink32 \
+    eglSubDriverAndroid_eglSubDriverAndroid_symlink64 \
+    libEGL_adreno_libEGL_adreno_symlink64 \
+    libGLESv1_CM_adreno_libGLESv1_CM_adreno_symlink64 \
+    libGLESv2_adreno_libGLESv2_adreno_symlink64 \
+    libq3dtools_adreno_libq3dtools_adreno_symlink64 \
+    libq3dtools_esx_libq3dtools_esx_symlink64
+   
