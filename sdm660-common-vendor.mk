@@ -591,8 +591,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.callcapability-V1.0-java \
     vendor.qti.ims.callinfo-V1.0-java \
     vendor.qti.ims.rcsconfig-V1.0-java \
-    manifest_android.hardware.drm@1.4-service.widevine \
-    vendor.qti.gnss@4.0-service
+    manifest_android.hardware.drm@1.4-service.widevine.xml \
+    vendor.qti.gnss@4.0-service.xml
 
 PRODUCT_PACKAGES += \
     libimscamera_jni_libimscamera_jni_symlink64 \
